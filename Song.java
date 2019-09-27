@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Song {
     private String title;;
     private double duration;
